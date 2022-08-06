@@ -19,7 +19,7 @@ function Homepage() {
   return (
       <div className="Homepage">
         <div className="container text-center">
-          <h1 className="mb-4 font-weight-bold">Jobly</h1>
+          <h1 className="mb-4 font-weight-bold">J2F</h1>
           <p className="lead">All the jobs in one, convenient place.</p>
           {currentUser
               ? <h2>
