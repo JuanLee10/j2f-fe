@@ -1,6 +1,6 @@
 # J2F Frontend
 
-This is the React front-end for [J2F](yummy-ink.surge.sh).
+This is the React front-end for [J2F](https://yummy-ink.surge.sh).
 
 ## Motivation
 <!-- A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists. -->
