@@ -34,6 +34,7 @@ Include logo/demo screenshot etc. -->
 - [Node Sass](https://github.com/sass/node-sass)
 - [JSON Web Token](https://github.com/auth0/node-jsonwebtoken)
 - [Axios](https://github.com/axios/axios)
+- [Surge](https://surge.sh/)
 
 ## Features
 The application allows users to sign up and log into their accounts to 
